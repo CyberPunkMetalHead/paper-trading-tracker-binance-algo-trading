@@ -1,0 +1,122 @@
+{
+    "BTC": {
+        "symbol": "BTCUSDT",
+        "price": "34170.99000000",
+        "volume": 0.000439,
+        "time": 1624904258.977829
+    },
+    "ETH": {
+        "symbol": "ETHUSDT",
+        "price": "2180.24000000",
+        "volume": 0.00688,
+        "time": 1624965511.275589
+    },
+    "ALGO": {
+        "symbol": "ALGOUSDT",
+        "price": "0.90310000",
+        "volume": 16.61,
+        "time": 1624984171.336688
+    },
+    "XLM": {
+        "symbol": "XLMUSDT",
+        "price": "0.27535000",
+        "volume": 54.5,
+        "time": 1625023912.777707
+    },
+    "ADA": {
+        "symbol": "ADAUSDT",
+        "price": "1.32100000",
+        "volume": 11.36,
+        "time": 1625141241.652634
+    },
+    "SOL": {
+        "symbol": "SOLUSDT",
+        "price": "34.16100000",
+        "volume": 0.439,
+        "time": 1625143390.277545
+    },
+    "LINK": {
+        "symbol": "LINKUSDT",
+        "price": "18.10700000",
+        "volume": 0.828,
+        "time": 1625170492.433262
+    },
+    "DOGE": {
+        "symbol": "DOGEUSDT",
+        "price": "0.24446000",
+        "volume": 61.4,
+        "time": 1625172300.252885
+    },
+    "MATIC": {
+        "symbol": "MATICUSDT",
+        "price": "1.05759000",
+        "volume": 14.2,
+        "time": 1625226516.922695
+    },
+    "XTZ": {
+        "symbol": "XTZUSDT",
+        "price": "2.88800000",
+        "volume": 5.19,
+        "time": 1625284361.435812
+    },
+    "LTC": {
+        "symbol": "LTCUSDT",
+        "price": "135.59000000",
+        "volume": 0.11063,
+        "time": 1625290387.787016
+    },
+    "VET": {
+        "symbol": "VETUSDT",
+        "price": "0.07783000",
+        "volume": 192.7,
+        "time": 1625909080.907126
+    },
+    "DAI": {
+        "symbol": "DAIUSDT",
+        "price": "1.01890000",
+        "volume": 14.72,
+        "time": 1625949495.13034
+    },
+    "CAKE": {
+        "symbol": "CAKEUSDT",
+        "price": "14.78500000",
+        "volume": 1.015,
+        "time": 1625953111.820698
+    },
+    "DOT": {
+        "symbol": "DOTUSDT",
+        "price": "15.54900000",
+        "volume": 0.965,
+        "time": 1626017643.081021
+    },
+    "EOS": {
+        "symbol": "EOSUSDT",
+        "price": "4.31080000",
+        "volume": 3.48,
+        "time": 1626074332.367003
+    },
+    "AAVE": {
+        "symbol": "AAVEUSDT",
+        "price": "310.83000000",
+        "volume": 0.0483,
+        "time": 1626094225.712997
+    },
+    "XMR": {
+        "symbol": "XMRUSDT",
+        "price": "204.55000000",
+        "volume": 0.07333,
+        "time": 1626181010.702969
+    },
+    "MKR": {
+        "symbol": "MKRUSDT",
+        "price": "2545.82000000",
+        "volume": 0.00589,
+        "time": 1626283896.359103
+    },
+    "ATOM": {
+        "symbol": "ATOMUSDT",
+        "price": "11.65300000",
+        "volume": 1.287,
+        "time": 1626308603.586566
+    }
+}
