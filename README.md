@@ -1,7 +1,7 @@
 **This is a simple portfolio tracker that can be used for cryptocurrency paper trading on Binance**
 
 The script takes a .json file (see example) and plots daily PNL along total profit and loss. Can be used for deeper analysis of live trades on Binance as well as for tracking paper trades.
-For more information on how to use this script see:  [Binance Paper Trading Tracker] (https://cryptomaton.org)
+For more information on how to use this script see:  [Binance Paper Trading Tracker](https://cryptomaton.org)
 
 **Why?**
 While Binance does offer a test net, you are not able to easily see the performance of your trades. In addition to that, the Binance testnet is rather limited and only allows a very limited amount of pairs.
